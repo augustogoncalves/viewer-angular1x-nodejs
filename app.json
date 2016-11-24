@@ -1,0 +1,24 @@
+{
+  "name": "viewer-angular1x-nodejs",
+  "description": "Angular 1.x sample with NodeJS backend",
+  "repository": "https://github.com/augustogoncalves/viewer-angular1x-nodej",
+  "logo": "https://avatars0.githubusercontent.com/u/8017462?v=3&s=200",
+  "keywords": [
+    "angular",
+    "express",
+    "framework",
+    "autodesk",
+    "forge",
+    "template"
+  ],
+  "env": {
+    "FORGE_CLIENT_ID": {
+      "description": "Forge Client ID"
+    },
+    "FORGE_CLIENT_SECRET": {
+      "description": "Forge Client Secret"
+    }
+  },
+  "website": "https://developer.autodesk.com/",
+  "success_url": "/"
+}
